@@ -1,4 +1,4 @@
-package io.github.lrzeszotarski.sample.springcloudkafka;
+package io.github.lrzeszotarski.sample.spring.cloud.kafka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
